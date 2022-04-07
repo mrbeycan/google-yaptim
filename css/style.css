@@ -1,0 +1,64 @@
+.img{
+    width: 733px;
+    height: 115px;
+    margin: 0 auto;
+}
+.sea{
+    width: 1155.69px;
+    height: 67px;
+    background-color: #EEEEEE;
+    margin: 0 auto;
+    
+}
+.kutu{
+    width: 315px;
+    height: 15px;
+    background-color:white;
+}
+
+
+
+.alt{
+    width: 33%;
+    height: 0px;
+    background-color: #7EE5DA;
+    margin: 4px 1000px 0px 0px;
+    float: left;
+}
+.ort{
+    width: 239,11px;
+    height: 25px; 
+}
+
+.ikinci-kutu{
+    
+    margin-top: 9px;
+    margin-right: 50px;
+
+}
+
+.ort1{
+    width: 127,11px;
+    height: 2px; 
+    position: absolute;
+}
+
+.ucuncu-kutu{
+    
+    margin-bottom: 10px;
+    margin-left: 360px;
+    position: absolute;
+    top: 192px;
+    right: 73px;
+
+}
+.dort-kutu{
+    width: 10px;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-left: 360px;
+    position: absolute;
+    top: 192px;
+    right: 842px;
+
+}
